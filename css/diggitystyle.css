@@ -1,0 +1,200 @@
+body	{
+       	background-color:black;
+        }
+
+div.maincontainer {
+	width:1078px;
+	height:1918px;
+	padding:0;
+        margin:0;
+        margin-left:-12px;
+        margin-top:-8px;
+        background-color:black;		
+	}
+
+div.headertopmargin {
+        width:1078px;
+        height:53px;
+        padding:0;
+        margin:0;
+        background-color:blue;
+        float:left;
+        }
+
+div.headermarginleft    {
+        width: 53px;
+        height: 1812px;
+        padding:0;
+        margin:0;
+        background-color:red;
+        float:left;
+        }
+
+div.headermarginright    {
+        width: 53px;
+        height: 1812px;
+        padding:0;
+        margin:0;
+        background-color:green;
+        float:left;
+        position:absolute;
+        top:53px;
+        left:1026px;
+        }
+
+#content{
+        overflow:hidden;
+        width:972px;
+        background-color:yellow;
+        position:relative;
+        height:1812px;
+        float:left;
+        }
+
+
+.contentcontainer    {
+    width:1944px;
+    position:relative;
+    background-color:green;
+
+    }
+
+    .contentcontainer .sub{
+        position:relative;
+        float:left;
+        padding:0;
+        width:972px;
+        height:1812;
+    }
+
+#subcontent{
+        overflow:hidden;
+        width:972px;
+        background-color:#8f1b28;
+        position:relative;
+        height:1452px;
+        
+        }
+
+.subcontentcontainer{
+    width:972px;
+    height:4356px;
+    position:relative;
+    background-color:#003a48;
+    float:left;
+    }
+
+    .subcontentcontainer .subsub {
+        position:relative;
+        float:left;
+        padding:0;
+        width:972px;
+        height:1452px;
+        background-color:#1da65f;
+        }
+
+
+
+
+.newtopnav{
+        float:left;
+        width:972px;
+        height:360px;
+        background-color:black;
+        }
+
+
+
+
+
+
+div.singlerackarea1 {
+        width:972px;
+		height:90px;
+        padding:0;
+        margin:0;
+        background-color:black;
+        float:left;
+        }
+
+div.halfrackarea1 {
+        width:450px;
+        height:83px;
+        padding:0;
+        margin:0;
+        background-color:black;
+        float:left;
+        }
+
+div.halfrackarea2 {
+        width:450px;
+        height:83px;
+        padding:0;
+        margin:0;
+        margin-left:-12px;
+        background-color:black;
+        float:left;
+        }
+            
+div.doublerackinfo1 {
+        width:972px;
+        height:180px;
+        padding:0;
+        margin:0;
+        background-color:black;
+        float:left;
+        }
+            
+div.singlerackarea2 {
+        width:972px;
+        height:90px;
+        padding:0;
+        margin:0;
+        background-color:black;
+        float:left;
+        }
+            
+div.doublerackinfo2 {
+        width:972px;
+        height:180px;
+        padding:0;
+        margin:0;
+        background-color:black;
+        float:left;
+        }
+            
+div.doublerackextra {
+        width:972px;
+        height:282px;
+        padding:0;
+        margin:0;
+        background-color:black;
+        float:left;
+        }
+
+div.twelveextrapix {
+        width:972px;
+        height:12px;
+        padding:0;
+        margin:0;
+        background-color:green;
+        float:left;
+        }
+
+div.rackeararea {
+        width:36px;
+        height:83px;
+        padding:0;
+        margin:0;
+        background-color:orange;
+        float:left;
+        }
+
+div.doublerackBLUBIBBOB {
+        width:972px;
+        height:289px;
+        padding:0;
+        margin:0;
+        background-color:black;
+        float:left;
+        }
